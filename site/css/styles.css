@@ -772,3 +772,19 @@ div.modal.fade.in {
 }
 
 /* End modal */
+
+
+/*****************************************************************************/
+/*
+/* Snipcart overwrites
+/*
+/*****************************************************************************/
+
+.snipcart-checkout-container {
+  z-index: 3000;
+}
+
+button.snipcart-add-item {
+	background-color: transparent;
+	border: none;
+}
